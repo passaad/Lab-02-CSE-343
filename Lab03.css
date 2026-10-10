@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+body {
+    background-color: yellow;
+}
+
+h2 {
+    text-align: center;
+}
